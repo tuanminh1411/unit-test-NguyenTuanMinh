@@ -18,6 +18,4 @@ Danh sách rỗng
 Biên (0, 10)
 
 ▶️ Hướng dẫn chạy:
-bash
-Sao chép mã
 mvn test
