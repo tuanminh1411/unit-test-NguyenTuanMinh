@@ -97,27 +97,7 @@ StudentAnalyzer()	                    100%	             n/a	                    
 Tổng	                                100%	             100%	                      17	           Tốt
 
 
-## 📁 Cấu trúc thư mục
 
-```
-student-analyzer/
-├── pom.xml
-├── README.md
-├── src/
-│   ├── main/java/com/mycompany/student/StudentAnalyzer.java
-│   └── test/java/com/mycompany/student/StudentAnalyzerTest.java
-└── target/site/jacoco/index.html  # Báo cáo coverage
-```
-
----
-
-## 💡 Gợi ý nâng cao
-
-- Tích hợp CI/CD với GitHub Actions.
-- Tự động kiểm tra coverage mỗi lần push.
-- Hiển thị badge % coverage trên README với Codecov/Coveralls.
-
----
 
 
 
