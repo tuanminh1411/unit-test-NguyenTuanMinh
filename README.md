@@ -89,12 +89,7 @@ target/site/jacoco/index.html
 
 ## 📊 Kết quả đo độ bao phủ kiểm thử (JaCoCo thực tế):
 
-Hàm	                                  Line Coverage	     Branch Coverage	          Cxty	         Ghi chú
-calculateValidAverage(List)	          100%	             100%	                      6	             Bao phủ đầy đủ
-countScoresInExcellentRange(List)	    100%               100%	                      6	             Bao phủ đầy đủ
-isValidScore(Double)	                100%	             100%	                      4	             Bao phủ đầy đủ
-StudentAnalyzer()	                    100%	             n/a	                      1	             Constructor đơn giản
-Tổng	                                100%	             100%	                      17	           Tốt
+![image](https://github.com/user-attachments/assets/2dfd02ce-3a17-40d0-b50f-59b4ce0f9246)
 
 
 
